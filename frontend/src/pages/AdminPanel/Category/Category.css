@@ -1,0 +1,10 @@
+.formWrapper {
+    padding: 15px;
+    height: 250px;
+}
+.categoryListWrapper {
+    margin: 5px;
+}
+.addButton {
+    margin: 10px 0 30px 10px !important;
+}

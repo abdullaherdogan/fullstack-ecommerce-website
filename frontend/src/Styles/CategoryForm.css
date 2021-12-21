@@ -1,0 +1,15 @@
+.categories-container {
+    margin: 15px;
+}
+.category-form {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+}
+.formItem {
+    margin-bottom: 10px !important;
+}
+.title {
+    font-weight: bold !important;
+    margin-bottom: 30px;
+}

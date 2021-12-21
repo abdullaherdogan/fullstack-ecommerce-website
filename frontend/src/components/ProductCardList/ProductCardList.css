@@ -1,0 +1,13 @@
+.cardImg {
+    height: 285px;
+    object-fit: contain;
+}
+.productCard {
+    height: 450px;
+    max-height: 450px;
+}
+.cardBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+}
+.adminPanelContainer {
+    display: flex;
+}
+.content {
+    flex: 4;
+}
+.root {
+    background-color: #fff;
+}
+.app-main {
+    padding-left: 320px;
+    width: 100%;
+}

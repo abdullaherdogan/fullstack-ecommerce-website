@@ -1,0 +1,14 @@
+.carouselItem {
+    position: relative;
+}
+h3 {
+    position: absolute;
+    color: white;
+    top: 30%;
+    right: 20%;
+    font-size: 36px;
+}
+img {
+    height: 372px;
+    object-fit: contain;
+}
